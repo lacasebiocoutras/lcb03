@@ -1,0 +1,31 @@
+---
+title:  Marché de Noël à La Case Bio
+date-publication: 10 mars 2016
+
+order: 99
+
+date-evenement: 20 decembre 2016
+date-end-evenement: 3 janvier 2017
+
+description: order A l'occasion des fêtes de fin d'année, des artisans locaux vous présentent leurs créations. Des idées de cadeaux, à découvrir...
+
+lire-plus: 
+
+image-miniature: 
+carousel: 
+
+tags: 
+---
+
+<!--fin-excerpt-->
+<!-- ******************************** -->
+<!-- **** début contenu détaillé **** -->
+
+
+
+
+<!-- **** fin contenu détaillé **** -->
+<!-- ****************************** -->
+
+
+
