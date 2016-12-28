@@ -9,7 +9,7 @@ description: Tous les Vendredi matin, retrouvez pain et viennoiserie bio
 
 lire-plus: 
 
-image-miniature: "depot-pain.jpg"
+miniature: "depot-pain.jpg"
 carousel: 
 
 marque:

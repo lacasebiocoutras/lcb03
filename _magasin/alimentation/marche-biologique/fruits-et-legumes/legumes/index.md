@@ -11,7 +11,7 @@ description: Rayon légume de notre marché de saison
 
 lire-plus: 
 
-image-miniature: 
+miniature: 
 carousel: 
 
 marque: 

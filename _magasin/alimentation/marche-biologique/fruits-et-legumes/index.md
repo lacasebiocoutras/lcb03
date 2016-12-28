@@ -12,7 +12,7 @@ description: Retrouvez notre sélection de fruits et légumes.
 
 lire-plus: 
 
-image-miniature: 
+miniature: 
 carousel: 
 
 

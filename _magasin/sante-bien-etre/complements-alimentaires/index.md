@@ -9,7 +9,7 @@ description: Des compléments alimentaires adaptés à vos besoins
 
 lire-plus: Découvrez notre rayon
 
-image-miniature:
+miniature:
 carousel: 
 
 marque: 

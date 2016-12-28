@@ -10,7 +10,7 @@ description:
 
 lire-plus: 
 
-image-miniature: "fraise.jpg"
+miniature: "fraise.jpg"
 carousel: 
 
 marque:

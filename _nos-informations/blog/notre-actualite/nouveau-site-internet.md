@@ -15,7 +15,7 @@ description: Pour suivre notre actualité, nos nouveautés,..
 
 lire-plus:
 
-image-miniature: lacasebio.png
+miniature: lacasebio.png
 carousel: 
 
 tags: 

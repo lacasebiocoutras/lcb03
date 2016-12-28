@@ -8,7 +8,7 @@ description: rayon fruits de notre marché de saison
 
 lire-plus: 
 
-image-miniature: 
+miniature: 
 carousel: 
 
 marque: 

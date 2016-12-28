@@ -10,7 +10,7 @@ description: Toutes les fraises direct producteur du Sud-Ouest
 
 lire-plus: 
 
-image-miniature: "fraise.jpg"
+miniature: "fraise.jpg"
 carousel: 
 
 marque:

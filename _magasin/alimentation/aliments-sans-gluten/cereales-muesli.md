@@ -8,7 +8,7 @@ description:
 
 lire-plus:
 
-image-miniature: "muesli.jpg"
+miniature: "muesli.jpg"
 carousel: 
 
 marque:

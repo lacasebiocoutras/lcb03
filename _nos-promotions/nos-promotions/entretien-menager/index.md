@@ -9,7 +9,7 @@ description:
 
 lire-plus: visitez notre rayon
 
-image-miniature: 
+miniature: 
 carousel: 
 
 marque: 

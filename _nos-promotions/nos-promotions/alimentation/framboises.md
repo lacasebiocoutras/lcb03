@@ -13,7 +13,7 @@ description:
 lire-plus: 
 
 
-image-miniature: "framboise.jpg"
+miniature: "framboise.jpg"
 carousel: 
 
 marque:

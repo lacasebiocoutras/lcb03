@@ -6,7 +6,7 @@ date-debut-promotion: 2 juillet 2016
 date-fin-promotion: null
 description: null
 lire-plus: null
-image-miniature: muesli.jpg
+miniature: muesli.jpg
 carousel: null
 marque: null
 label: null

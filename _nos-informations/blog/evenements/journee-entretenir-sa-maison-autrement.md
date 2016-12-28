@@ -11,7 +11,7 @@ description: Découvrir, ou redécouvrir, des produits naturels.
 
 lire-plus: 
 
-image-miniature: "clean-air.jpg"
+miniature: "clean-air.jpg"
 carousel: 
 
 tags: 

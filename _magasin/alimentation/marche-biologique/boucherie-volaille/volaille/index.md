@@ -8,7 +8,7 @@ description: rayon volaille
 
 lire-plus: 
 
-image-miniature: 
+miniature: 
 carousel: 
 
 marque: 

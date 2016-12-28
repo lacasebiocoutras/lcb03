@@ -11,7 +11,7 @@ description: une journée  porte ouverte avec les apiculteurs de la région
 
 lire-plus: 
 
-image-miniature: "journee-apiculteurs.jpg"
+miniature: "journee-apiculteurs.jpg"
 carousel: 
 
 tags: 

@@ -9,7 +9,7 @@ description: Toutes les fraises direct producteur en Aquitaine
 
 lire-plus: 
 
-image-miniature: "fraise.jpg"
+miniature: "fraise.jpg"
 carousel: 
 
 marque:

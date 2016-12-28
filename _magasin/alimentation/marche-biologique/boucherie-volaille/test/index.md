@@ -8,7 +8,7 @@ description: rayon test boucherie
 
 lire-plus: 
 
-image-miniature: 
+miniature: 
 carousel: 
 
 marque: 

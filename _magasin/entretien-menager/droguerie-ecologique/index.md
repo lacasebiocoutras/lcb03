@@ -9,7 +9,7 @@ description: Des produits bio pour toute la maison, et tous les usages.
 
 lire-plus: 
 
-image-miniature: 
+miniature: 
 carousel: 
 
 marque: 

@@ -10,7 +10,7 @@ description: labellisé
 lire-plus: 
 
 
-image-miniature: 
+miniature: 
 carousel: 
 
 marque:

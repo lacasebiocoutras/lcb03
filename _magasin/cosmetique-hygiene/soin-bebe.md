@@ -10,7 +10,7 @@ description: Une gamme complète de produits bio adaptés à la toilette et au c
 lire-plus:
 
 
-image-miniature: 
+miniature: 
 carousel: 
 
 marque:

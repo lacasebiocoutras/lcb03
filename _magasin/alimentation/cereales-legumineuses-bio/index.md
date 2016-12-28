@@ -8,7 +8,7 @@ description: Une trentaine de silos en vrac sont à votre disposition
 
 lire-plus: Arrivage régulier avec de nouvelles variétés à découvrir
 
-image-miniature: "cereales-legumineuses.jpg"
+miniature: "cereales-legumineuses.jpg"
 carousel: 
 
 

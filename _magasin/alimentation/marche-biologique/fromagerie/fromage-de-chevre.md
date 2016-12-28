@@ -10,7 +10,7 @@ description:
 lire-plus: 
 
 
-image-miniature: 
+miniature: 
 carousel: 
 
 marque:

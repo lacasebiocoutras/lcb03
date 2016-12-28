@@ -11,7 +11,7 @@ description: Présentation de leur bienfait pour notre équilibre.
 
 lire-plus: 
 
-image-miniature: "les-fleurs-de-bach-logo.jpg"
+miniature: "les-fleurs-de-bach-logo.jpg"
 carousel: 
 
 tags: 

@@ -11,7 +11,7 @@ description: Retrouvez sur cette page les évenements & rencontres organisés à
 
 lire-plus:
 
-image-miniature: lacasebio.png
+miniature: lacasebio.png
 carousel: 
 
 tags : 

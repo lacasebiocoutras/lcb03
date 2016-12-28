@@ -10,7 +10,7 @@ description:
 lire-plus: 
 
 
-image-miniature: "tomate-cerise.jpg"
+miniature: "tomate-cerise.jpg"
 carousel: 
 
 marque:

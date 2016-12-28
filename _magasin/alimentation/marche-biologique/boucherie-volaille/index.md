@@ -12,7 +12,7 @@ description:  issus de nos producteurs locaux
 
 lire-plus: 
 
-image-miniature: 
+miniature: 
 carousel: 
 
 

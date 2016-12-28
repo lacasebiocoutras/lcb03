@@ -12,7 +12,7 @@ description: Retrouvez notre sélection de fromages
 
 lire-plus: 
 
-image-miniature: 
+miniature: 
 carousel: 
 
 

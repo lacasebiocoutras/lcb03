@@ -8,7 +8,7 @@ description:
 
 lire-plus: visitez notre rayon Cosmétique & Hygiène
 
-image-miniature: 
+miniature: 
 carousel: 
 
 marque: 

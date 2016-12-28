@@ -9,7 +9,7 @@ description: Nous vous proposons une large variété de produits certifiés AB.
 lire-plus:
 
 
-image-miniature:
+miniature:
 carousel: 
 
 marque:

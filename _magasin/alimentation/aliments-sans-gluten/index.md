@@ -9,7 +9,7 @@ description: Une gamme complète et variée de produits pour les personnes intol
 
 lire-plus: Découvrez notre rayon
 
-image-miniature: "Certified-Gluten-Free-Logo.jpg"
+miniature: "Certified-Gluten-Free-Logo.jpg"
 carousel: 
 
 marque: 
