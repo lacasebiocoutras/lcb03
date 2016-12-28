@@ -1,17 +1,22 @@
 ---
 order: 1
+
 title: Céréales et muesli sans Gluten
 date-publication: 2 mai 2016
+
 date-debut-promotion: 2 juillet 2016
-date-fin-promotion: null
-description: null
-lire-plus: null
+date-fin-promotion: 
+
+description: Fraises en provenance du Lot-et-Garonne direct producteur
+
+lire-plus: 
+
 miniature: muesli.jpg
-carousel: null
-marque: null
-label: null
-tags: null
-published: true
+carousel: 
+
+marque:
+label: 
+tags: 
 ---
 
 <!--fin-excerpt-->

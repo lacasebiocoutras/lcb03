@@ -12,7 +12,7 @@ description:
 lire-plus:
 
 
-miniature: "lentille-corail.jpg"
+miniature: lentille-corail.jpg
 carousel: 
 
 marque:

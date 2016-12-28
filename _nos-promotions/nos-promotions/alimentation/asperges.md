@@ -13,8 +13,7 @@ description:
 lire-plus: Chaque semaine, le Vendredi, de 17h à 19h, ...
 
 
-miniature: "asperges.jpg"
-carousel: 
+miniature: asperges.jpg
 
 marque:
 label: 

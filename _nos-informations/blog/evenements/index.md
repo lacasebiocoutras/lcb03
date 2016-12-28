@@ -16,7 +16,7 @@ carousel:
 tags : 
 
 model: display-on-parent-and-no-personal-page
-sort_items : "date-evenement"
+sort_items : date-evenement
 
 ---
 

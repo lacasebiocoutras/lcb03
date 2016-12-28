@@ -217,7 +217,7 @@
     {% if item_raw.date-evenement %}
       {% include coll_ext_utils/date/display-date-fr.html
         date=item_raw.date-evenement
-        date_end=item_raw.date-end-evenement
+        date_end=item_raw.date-fin-evenement
       %}
       <p class="title" itemprop="date">{{date_text_out}}</p>
     {% endif %}
